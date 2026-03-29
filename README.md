@@ -1,1 +1,1 @@
-repo created in the process of learing git and github
+repo created in the process of learning git and github
